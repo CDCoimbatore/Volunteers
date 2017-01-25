@@ -4,13 +4,10 @@
 }
 footer{
 	height: 20px;
+	text-align: center;
 }
 hr{
 	height:5px;
-}
-.col{
-	padding: 10px 10px 10px 10px;
-	background-color:#BBBBBB;
 }
 .server-action-menu {
     background-image: linear-gradient(to bottom, rgba(30, 87, 153, 0.2) 0%, rgba(125, 185, 232, 0) 100%);
