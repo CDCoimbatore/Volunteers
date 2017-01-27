@@ -1,5 +1,6 @@
 body{
-	background-image:url("dojo.png");
+	background-image:url("cdc.png");
+	background-repeat: repeat-y;
 }
 .smim{
 	width:100px;
